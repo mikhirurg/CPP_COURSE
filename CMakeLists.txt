@@ -3,4 +3,4 @@ project(CPP_COURSE)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(CPP_COURSE BLOCK2/stacktrace.cpp)
+add_executable(CPP_COURSE BLOCK2/rotate.cpp)

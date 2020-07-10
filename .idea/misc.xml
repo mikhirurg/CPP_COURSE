@@ -5,6 +5,8 @@
     <sourceRoots>
       <file path="$PROJECT_DIR$/BLOCK1" />
       <file path="$PROJECT_DIR$/BLOCK2" />
+      <file path="$PROJECT_DIR$/BLOCK3" />
+      <file path="$PROJECT_DIR$/BLOCK4" />
     </sourceRoots>
   </component>
   <component name="JavaScriptSettings">

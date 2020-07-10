@@ -7,17 +7,17 @@
 using namespace std;
 
 void read() {
-    int a = 0;
-    cin >> a;
-    if (a != 0) {
-        read();
-    }
-    if (a != 0) {
-        cout << a << " ";
-    }
+  int a = 0;
+  cin >> a;
+  if (a != 0) {
+    read();
+  }
+  if (a != 0) {
+    cout << a << " ";
+  }
 }
 
 int main() {
-    read();
-    return 0;
+  read();
+  return 0;
 }

@@ -5,10 +5,10 @@
 #include <iostream>
 using namespace std;
 int main() {
-    int x = 0;
-    int a = 10;
-    int b = 20;
-    MAX(a+=b, b, x);
-    cout << x;
-    return 0;
+  int x = 0;
+  int a = 10;
+  int b = 20;
+  MAX(a += b, b, x);
+  cout << x;
+  return 0;
 }

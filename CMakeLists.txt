@@ -34,7 +34,6 @@ add_executable(Str BLOCK3/CString.cpp)
 
 #TASK 3_5_1
 add_executable(Cls BLOCK3/cls_task.cpp)
-endif()
 
 #BLOCK4
 
@@ -46,3 +45,21 @@ add_executable(Foo BLOCK4/FooTask.cpp)
 
 #TASK 4_3_1
 add_executable(Expr BLOCK4/Expr.cpp)
+
+#TASK 4_6_1
+add_executable(Test BLOCK4/experiment.cpp)
+endif()
+
+#BLOCK5
+
+#TASK 5_1_1
+add_executable(Task BLOCK5/test.cpp)
+
+#TASK 5_2_1
+add_executable(CRational BLOCK5/CRational.cpp)
+
+#TASK 5_2_2
+add_executable(CStringNext BLOCK5/CStringNext.cpp)
+
+#TASK 5_3_2
+add_executable(CSharedPtr BLOCK5/CSharedPtr.cpp)
